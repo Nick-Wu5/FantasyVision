@@ -1,0 +1,5 @@
+[
+  {"id":"evt_040","matchClock":"62:45","videoTimeMs":15000,"type":"save","playerId":"p1","teamId":"away","metadata":{}},
+  {"id":"evt_041","matchClock":"63:12","videoTimeMs":41200,"type":"goal","playerId":"p9","teamId":"home","metadata":{"assistBy":"p7","shotSpeedKph":92}},
+  {"id":"evt_042","matchClock":"67:08","videoTimeMs":68000,"type":"card","playerId":"p3","teamId":"away","metadata":{"color":"yellow"}}
+]
