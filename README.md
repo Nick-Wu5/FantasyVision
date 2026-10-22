@@ -1,1 +1,3 @@
 # FantasyVision
+
+FantasyVision turns a football broadcast into a personalized fantasy football experience. Viewers scan a QR code on screen to connect their fantasy team, and the broadcast responds to them: a pre-match look at the players they should watch, live graphics when those players earn or lose points, and shifts in their league standings as the match unfolds. When the final whistle blows, they get a recap of the top performers across their league. Built for the Microsoft Premier League Hackathon, FantasyVision uses AI to explain why each moment matters to each fan, so no two viewers watch the same match.
